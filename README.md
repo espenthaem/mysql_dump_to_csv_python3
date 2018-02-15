@@ -10,7 +10,7 @@ It is largely based on the mysql_dumpt_to_csv project by the GitHub user jamesmi
 
 
 ## Usage
-Run `python mysqldump_to_csv.py` followed by the filename of the SQL file
+Run `python sql_to_csv.py` followed by the filename of the SQL file
 
 
 ## How It Works
